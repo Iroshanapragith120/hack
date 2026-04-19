@@ -28,4 +28,4 @@ rm -rf hack && git clone [https://github.com/Iroshanapragith120/hack.git](https:
 ```
 
 ```bash
-node hack/trace.js
+node trace.js
