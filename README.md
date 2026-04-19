@@ -24,3 +24,8 @@ To run this on **Google Cloud Shell** or any Linux terminal, simply copy and pas
 
 ```bash
 rm -rf hack && git clone [https://github.com/Iroshanapragith120/hack.git](https://github.com/Iroshanapragith120/hack.git) && cd hack && npm install && node trace.jsREADME.md
+
+```
+
+```bash
+node hack/trace.js
